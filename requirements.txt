@@ -1,0 +1,4 @@
+Django==2.1.5
+South==1.0.2
+djangorestframework==3.9.1
+djangorestframework-simplejwt==3.3
